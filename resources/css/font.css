@@ -1,0 +1,105 @@
+@font-face {
+    font-family: 'Firma';
+    font-style: italic;
+    font-weight: 100;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Thin-Italic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: normal;
+    font-weight: 600;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: italic;
+    font-weight: 600;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-SemiBold-Italic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: italic;
+    font-weight: 400;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Regular-Italic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: normal;
+    font-weight: 500;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: italic;
+    font-weight: 500;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Medium-Italic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: normal;
+    font-weight: 300;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: italic;
+    font-weight: 300;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Light-Italic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: normal;
+    font-weight: 200;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Extra-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: italic;
+    font-weight: 200;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Extra-Light-Italic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: normal;
+    font-weight: 700;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: italic;
+    font-weight: 700;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Bold-Italic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: normal;
+    font-weight: 800;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Black.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Firma';
+    font-style: italic;
+    font-weight: 800;
+    font-display: auto;
+    src: url('fonts/firma/BR-Firma-Black-Italic.ttf') format('truetype');
+}
