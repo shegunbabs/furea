@@ -2,6 +2,7 @@
 
 use App\Http\Livewire\Pages\About;
 use App\Http\Livewire\Pages\Home;
+use App\Http\Livewire\Pages\InnovativeSolutions;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -17,6 +18,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', Home::class)->name('home');
 Route::get('/about', About::class)->name('about');
+Route::get('/innovative-solutions', InnovativeSolutions::class)->name('innovative-solutions');
 
 //Route::get('/dashboard', function () {
 //    return view('dashboard');

@@ -18,7 +18,7 @@
             </div>
             <nav class="hidden md:flex space-x-10">
                 <a href="{{ route('about') }}" class="text-sm font-medium text-orange-600 hover:text-gray-900"> About Us </a>
-                <a href="#" class="text-sm font-medium text-orange-600 hover:text-gray-900"> Innovative Solutions </a>
+                <a href="{{ route('innovative-solutions') }}" class="text-sm font-medium text-orange-600 hover:text-gray-900"> Innovative Solutions </a>
                 <a href="#" class="text-sm font-medium text-orange-600 hover:text-gray-900"> ESG </a>
                 <a href="#" class="text-sm font-medium text-orange-600 hover:text-gray-900"> Opportunities </a>
                 <a href="#" class="text-sm font-medium text-orange-600 hover:text-gray-900"> Contact Us </a>
