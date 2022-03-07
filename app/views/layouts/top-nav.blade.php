@@ -1,5 +1,5 @@
 <div class="relative bg-white" x-data="{ showMobileMenu: false }">
-    <div class="mx-auto px-4 sm:px-6 border-b bg-gray-50">
+    <div class="mx-auto px-4 sm:px-6 border-b bg-gray-100">
         <div class="mx-auto max-w-7xl flex justify-between items-center p-3 md:justify-start md:space-x-10">
             <div class="flex justify-start lg:w-0 lg:flex-1">
                 <a href="{{ route('home') }}">
@@ -19,9 +19,9 @@
             <nav class="hidden md:flex space-x-10">
                 <a href="{{ route('about') }}" class="text-sm font-medium text-orange-600 hover:text-gray-900"> About Us </a>
                 <a href="{{ route('innovative-solutions') }}" class="text-sm font-medium text-orange-600 hover:text-gray-900"> Innovative Solutions </a>
-                <a href="#" class="text-sm font-medium text-orange-600 hover:text-gray-900"> ESG </a>
-                <a href="#" class="text-sm font-medium text-orange-600 hover:text-gray-900"> Opportunities </a>
-                <a href="#" class="text-sm font-medium text-orange-600 hover:text-gray-900"> Contact Us </a>
+                <a href="{{ route('esg') }}" class="text-sm font-medium text-orange-600 hover:text-gray-900"> ESG </a>
+                <a href="{{ route('opportunities') }}" class="text-sm font-medium text-orange-600 hover:text-gray-900"> Opportunities </a>
+                <a href="{{ route('contact-us') }}" class="text-sm font-medium text-orange-600 hover:text-gray-900"> Contact Us </a>
             </nav>
             {{--                <div class="hidden md:flex items-center justify-end md:flex-1 lg:w-0">--}}
             {{--                    <a href="#" class="whitespace-nowrap text-base font-medium text-gray-500 hover:text-gray-900"> Sign in </a>--}}

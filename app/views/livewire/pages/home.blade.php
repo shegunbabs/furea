@@ -270,34 +270,38 @@
                 <div class="mt-6 pt-10">
                     <dl class="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-12">
                         <div>
-                            <dt class="text-lg leading-6 font-medium text-gray-900">What&#039;s the best thing about Ecofriendly energy?</dt>
-                            <dd class="mt-2 text-base text-gray-500">I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</dd>
+                            <dt class="text-lg leading-6 font-medium text-gray-900">What is an Ecofriendly Biodegradable Diesel (EBD)?</dt>
+                            <dd class="mt-2 text-base text-gray-500">
+                                EBD is an alternative diesel fuel derived from natural gas, which burns more cleanly than conventional crude oil-based diesel.
+                            </dd>
+                        </div>
+                        <div>
+                            <dt class="text-lg leading-6 font-medium text-gray-900"> Is EBD a fossil fuel?</dt>
+                            <dd class="mt-2 text-base text-gray-500">
+                                EBD is made from natural gas which is the cleanest-burning fossil fuel. EBD is a high-quality liquid product that contain almost none of the impurities such as sulphur, aromatics and nitrogen which found in conventional crude oil refined products.
+                            </dd>
+                        </div>
+                        <div>
+                            <dt class="text-lg leading-6 font-medium text-gray-900">What is Sweetened Liquified Petroleum Gas (SLPG)?</dt>
+                            <dd class="mt-2 text-base text-gray-500">
+                                Liquefied petroleum gas (also called LPG or autogas) is a mixture of flammable hydrocarbon gases (Propane, Butane and Iso-butane) used as a fuel in heating appliances and vehicles. LPG is in liquid form and has a boiling temperature of -42 degrees centigrade. LPG is increasingly replacing chlorofluorocarbons (a greenhouse gas capable of damaging the ozone layer) as an aerosol propellant and a refrigerant.
+                                Sweetened, implies that our LPG has no impurities. Our process can be tuned to provide above 95% Propane rich LPG, a mix of Propane-Butane, or the three.
+                            </dd>
+                        </div>
+                        <div>
+                            <dt class="text-lg leading-6 font-medium text-gray-900">What is Sweetened Compressed Natural Gas (CNG)?</dt>
+                            <dd class="mt-2 text-base text-gray-500">
+                                Compressed Natural Gas (CNG) is a gaseous and flammable hydrocarbon and is a mixture of hydrocarbons, mainly methane above 95%. CNG can be compressed to pressures of about 200 barg due to its low density. CNG cylinders are built to withstand a working pressure of 200barg, making safe to transport and use.
+                                Sweetened, implies that our compressed natural gas comes with no impurities.
+                            </dd>
+                        </div>
+                        <div>
+                            <dt class="text-lg leading-6 font-medium text-gray-900"> What is a Carbon credit? </dt>
+                            <dd class="mt-2 text-base text-gray-500">
+                                When a project pulls Greenhouse Gases (GHGs) out of the atmosphere then Carbon credits are generated. This action keeps emissions from being released. A Carbon credit is created when there is empirical proof that the project has reduced, avoided, or destroyed one metric tonne of GHG. If your asset or project emits one tonne of GHG, and you also fund or purchase one tonne of emissions reduction project or asset, you have a net carbon footprint of zero.
+                            </dd>
                         </div>
 
-                        <div>
-                            <dt class="text-lg leading-6 font-medium text-gray-900">What&#039;s the best thing about Ecofriendly energy?</dt>
-                            <dd class="mt-2 text-base text-gray-500">I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</dd>
-                        </div>
-
-                        <div>
-                            <dt class="text-lg leading-6 font-medium text-gray-900">What&#039;s the best thing about Ecofriendly energy?</dt>
-                            <dd class="mt-2 text-base text-gray-500">I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</dd>
-                        </div>
-
-                        <div>
-                            <dt class="text-lg leading-6 font-medium text-gray-900">What&#039;s the best thing about Ecofriendly energy?</dt>
-                            <dd class="mt-2 text-base text-gray-500">I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</dd>
-                        </div>
-
-                        <div>
-                            <dt class="text-lg leading-6 font-medium text-gray-900">What&#039;s the best thing about Ecofriendly energy?</dt>
-                            <dd class="mt-2 text-base text-gray-500">I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</dd>
-                        </div>
-
-                        <div>
-                            <dt class="text-lg leading-6 font-medium text-gray-900">What&#039;s the best thing about Ecofriendly energy?</dt>
-                            <dd class="mt-2 text-base text-gray-500">I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</dd>
-                        </div>
                     </dl>
                 </div>
             </div>
