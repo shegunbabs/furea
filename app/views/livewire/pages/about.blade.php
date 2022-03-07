@@ -2,7 +2,8 @@
     {{-- The best athlete wants his opponent at his best. --}}
         <div class="relative bg-green-800">
             <div class="absolute inset-0">
-                <img class="w-full h-full object-cover" src="https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=60&&sat=-100" alt="">
+{{--                <img class="w-full h-full object-cover" src="https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=60&&sat=-100" alt="">--}}
+                <img class="w-full h-full object-cover" src="/img/gas_burn.jpg" alt="">
                 <div class="absolute inset-0 bg-green-600 mix-blend-multiply" aria-hidden="true"></div>
             </div>
             <div class="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
