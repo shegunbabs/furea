@@ -60,5 +60,69 @@
             </div>
         </div>
     </div>
+    <div class="bg-white">
+        <div class="py-16 sm:py-24 lg:max-w-7xl lg:mx-auto lg:px-8">
+            <div class="px-4 flex items-center justify-between sm:px-6 lg:px-0">
+                <h2 class="text-2xl font-extrabold tracking-tight text-gray-900">Our products</h2>
+            </div>
+
+            <div class="mt-8 relative">
+                <div class="relative w-full pb-6 -mb-6 overflow-x-auto">
+                    <ul role="list" class="mx-4 inline-flex space-x-8 sm:mx-6 lg:mx-0 lg:space-x-0 lg:grid lg:grid-cols-3 lg:gap-x-8">
+                        <li class="w-64 inline-flex flex-col text-center lg:w-auto">
+                            <div class="group relative">
+                                <div class="w-full bg-gray-200 rounded-md overflow-hidden aspect-w-1 aspect-h-1">
+                                    <img src="/img/ebd.jpg" alt="Black machined steel pen with hexagonal grip and small white logo at top." class="w-full h-full object-center object-cover group-hover:opacity-75">
+                                </div>
+                                <div class="mt-6">
+                                    <p class="text-sm text-gray-500">Ecofriendly Biodegradable Diesel</p>
+                                    <h3 class="mt-1 font-semibold text-gray-900">
+                                        <a href="#">
+                                            <span class="absolute inset-0"></span>
+                                            EFBD
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="w-64 inline-flex flex-col text-center lg:w-auto">
+                            <div class="group relative">
+                                <div class="w-full bg-gray-200 rounded-md overflow-hidden aspect-w-1 aspect-h-1">
+                                    <img src="/img/scng.jpg" alt="Black machined steel pen with hexagonal grip and small white logo at top." class="w-full h-full object-center object-cover group-hover:opacity-75">
+                                </div>
+                                <div class="mt-6">
+                                    <p class="text-sm text-gray-500">Sweet Compressed Natural Gas</p>
+                                    <h3 class="mt-1 font-semibold text-gray-900">
+                                        <a href="#">
+                                            <span class="absolute inset-0"></span>
+                                            SCNG
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="w-64 inline-flex flex-col text-center lg:w-auto">
+                            <div class="group relative">
+                                <div class="w-full bg-gray-200 rounded-md overflow-hidden aspect-w-1 aspect-h-1">
+                                    <img src="/img/splg.jpg" alt="Black machined steel pen with hexagonal grip and small white logo at top." class="w-full h-full object-center object-cover group-hover:opacity-75">
+                                </div>
+                                <div class="mt-6">
+                                    <p class="text-sm text-gray-500">Sweetened Liquefied Petroleum Gas</p>
+                                    <h3 class="mt-1 font-semibold text-gray-900">
+                                        <a href="#">
+                                            <span class="absolute inset-0"></span>
+                                            SLPG
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
 
 </div>
