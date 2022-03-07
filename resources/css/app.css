@@ -33,7 +33,7 @@
     }
 
     .slide-1 {
-        background-image: url(../img/pexels-zukiman-mohamad-87236.jpg);
+        background-image: url(../img/gas_flare.jpg);
     }
     .slide-2 {
         background-image: url(../img/pexels-zukiman-mohamad-87236.jpg);
@@ -41,7 +41,7 @@
 
 
     .slide-content {
-        @apply text-gray-200 absolute w-full inset-y-1/3 px-10 space-y-3;
+        @apply text-gray-200 absolute w-full inset-y-1/3 px-10 space-y-6 max-w-4xl;
     }
     .slide-content h1{
         @apply text-5xl font-bold uppercase;

@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Livewire\Pages\About;
+use App\Http\Livewire\Pages\Home;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,12 +15,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', Home::class)->name('home');
+Route::get('/about', About::class)->name('about');
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth'])->name('dashboard');
+//Route::get('/dashboard', function () {
+//    return view('dashboard');
+//})->middleware(['auth'])->name('dashboard');
 
-require __DIR__.'/auth.php';
+//require __DIR__.'/auth.php';
